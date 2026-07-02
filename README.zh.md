@@ -1,6 +1,6 @@
 # AI Pocketable Memory Framework
 
-[![English](https://img.shields.io/badge/README-English-green)](./README.md)
+[![English](https://img.shields.io/badge/README-English-green?style=for-the-badge)](./README.md)
 
 > 给中型项目的超轻量 AI 记忆框架。一个目录，即插即用，AI 自动维护。
 >
