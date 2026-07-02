@@ -1,33 +1,33 @@
 ---
-title: 项目知识库 - 综合概述
-tags: [概述, 核心]
+title: Project Memory - Overview
+tags: [overview, core]
 source_count: 0
 last_updated: YYYY-MM-DD
 ---
 
-# 项目知识库概述
+# Project Overview
 
-## 项目核心
+## Project Core
 
-<!-- 一句话描述：什么类型、核心技术栈、核心体验/目标 -->
+<!-- One-sentence description: type, core tech stack, core experience/goal -->
 
-## 核心工作流
+## Core Workflow
 
-<!-- 最常见的工作流，方便 AI 快速理解日常操作 -->
+<!-- Most common workflows, for AI to quickly understand daily operations -->
 
-## 项目目录速查
+## Project Directory Quick Reference
 
-<!-- 重要目录的快速索引 -->
+<!-- Quick index of important directories -->
 
-| 用途 | 路径 |
-|------|------|
-| 项目根 | `<project_root>` |
+| Purpose | Path |
+|---------|------|
+| Project root | `<project_root>` |
 
-## 知识库索引
+## Memory Index
 
-| 类别 | 条目 |
-|------|------|
-| 规范 | [[AI-OPERATION-SPEC]] |
-| 实体 | （暂无） |
-| 概念 | （暂无） |
-| 来源 | （暂无） |
+| Category | Entries |
+|----------|---------|
+| Spec | [[AI-OPERATION-SPEC]] |
+| Entities | (none yet) |
+| Concepts | (none yet) |
+| Sources | (none yet) |

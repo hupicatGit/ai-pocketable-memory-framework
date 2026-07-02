@@ -1,24 +1,24 @@
 ---
-title: 变更日志
-tags: [日志, 变更]
+title: Changelog
+tags: [log, changes]
 last_updated: YYYY-MM-DD
 ---
 
-# 变更日志
+# Changelog
 
 <!--
-  格式规范（只追加，不修改历史记录）：
-  ## YYYY-MM-DD 摄入 | 来源名称
+  Format (append only, never modify history):
+  ## YYYY-MM-DD Ingest | Source Name
 
-  **来源**：xxx
+  **Source**: xxx
 
-  **新增页面**：
-  - path/to/page.md：说明
+  **New pages**:
+  - path/to/page.md: description
 
-  **更新页面**：
-  - path/to/page.md：变更内容
+  **Updated pages**:
+  - path/to/page.md: what changed
 
-  **关键发现**：
-  - 发现点 1
-  - 发现点 2
+  **Key findings**:
+  - Finding 1
+  - Finding 2
 -->
