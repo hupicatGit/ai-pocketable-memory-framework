@@ -1,6 +1,6 @@
 # AI Pocketable Memory Framework
 
-[![中文说明](https://img.shields.io/badge/中文说明-blue)](./README.zh.md)
+[![中文说明](https://img.shields.io/badge/README-中文说明-blue)](./README.zh.md)
 
 > An ultra-lightweight AI memory framework for mid-size projects. One directory, plug and play, AI maintains it automatically.
 >
