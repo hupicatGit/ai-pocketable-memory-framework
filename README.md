@@ -1,6 +1,8 @@
 # AI Pocketable Wiki Framework
 
 > 给中型项目的超轻量 AI 友好知识库。一个目录，即插即用。
+>
+> **完全兼容 [Obsidian](https://obsidian.md/)** — `[[双向链接]]`、YAML frontmatter、目录结构均原生支持。既是 AI 知识库，也是人类可用的 Obsidian vault。
 
 ## 为什么需要这个？
 
@@ -11,6 +13,7 @@
 - **即插即用** — 复制一个 `wiki/` 目录到项目根，AI 立刻知道怎么用
 - **跨 session 存活** — AI 自动将 wiki 信息写入长期记忆，下次启动无需重新发现
 - **随用随长** — 每次任务发现新知识，AI 自动按流程沉淀回 wiki
+- **人机共用** — 完全兼容 Obsidian，团队成员可以用 Obsidian 可视化浏览 AI 积累的知识
 
 ## 核心设计：分层摘要金字塔
 
@@ -89,6 +92,19 @@ Session 2: 自动注入记忆 → 直接知道 wiki 在哪 → 查到 SVN 地址
 ```
 
 ## 兼容性
+
+### Obsidian 原生兼容
+
+本框架的目录结构和 Markdown 规范完全遵循 Obsidian 约定：
+
+- **`[[双向链接]]`** — 概念、实体、来源之间互相引用，Obsidian 图谱视图可直接可视化知识网络
+- **YAML frontmatter** — 每个文件的 `title`、`tags`、`last_updated` 等元数据，Obsidian 原生解析
+- **目录分类** — `sources/`、`concepts/`、`entities/`、`comparisons/` 直接对应 Obsidian 的文件夹组织
+- **零配置打开** — 用 Obsidian 打开项目根目录即可使用，无需额外设置
+
+> 用 Obsidian 打开你的项目，立刻拥有一个可视化的 AI 知识库图谱。
+
+### Agent 兼容性
 
 | 平台 | 支持情况 |
 |------|---------|
