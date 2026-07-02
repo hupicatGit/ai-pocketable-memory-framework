@@ -1,5 +1,7 @@
 # AI Pocketable Memory Framework
 
+[中文](./README.zh.md)
+
 > An ultra-lightweight AI memory framework for mid-size projects. One directory, plug and play, AI maintains it automatically.
 >
 > **Fully compatible with [Obsidian](https://obsidian.md/)** — `[[wikilinks]]`, YAML frontmatter, and directory structure work out of the box. It's both an AI memory store and a human-browsable Obsidian vault.
